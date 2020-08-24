@@ -44,7 +44,7 @@ You will first land on the Home page. If you have yet to create a login, you can
 Project is: _in-progess_ (for now)
 
 ## Links
-Respository Link - https://github.com/florhaidee/memorial/
+Respository Link - https://github.com/JohnNielsen1221/memorial/
 
 Deployed on Heroku - https://alwaysremember.herokuapp.com/
 
@@ -58,6 +58,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Contact
 
-Created by John Hayes Nielsen - johnhayesnielsen@gmail.com
-
-           Florhaidee Guerra - florhaideedev@gmail.com
+Created by John Hayes Nielsen - johnhayesnielsen@gmail.com and Florhaidee Guerra - florhaideedev@gmail.com
